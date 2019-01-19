@@ -161,3 +161,8 @@ p {
     text-align: left;
     width: 800px;
 }
+
+
+.about {
+  bottom: 50px;
+}
